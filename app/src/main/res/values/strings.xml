@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ViewBinding</string>
+
+    <string-array name="image">
+        <item>https://cf.shopee.co.id/file/876ce85540b061176080d5d207625cce</item>
+        <item>https://www.ekor9.com/wp-content/uploads/2018/11/kucing-bengal-marble.jpg</item>
+        <item>https://hewany.com/wp-content/uploads/2019/09/kucing-siam.jpg</item>
+        <item>https://kucingpedia.com/wp-content/uploads/2019/08/Kucing-British-Shorthair.jpg</item>
+        <item>https://hewany.com/wp-content/uploads/2019/09/sejarah-1.jpg</item>
+        <item>https://icatcare.org/app/uploads/2018/10/ragdoll-1-1200x600.jpg</item>
+        <item>https://hewany.com/wp-content/uploads/2019/09/kucing-munchkin.jpg</item>
+    </string-array>
+
+    <string-array name="ras">
+        <item>Kucing Persia</item>
+        <item>Kucing Bengal</item>
+        <item>Kucing siam</item>
+        <item>Kucing bulu pendek britania</item>
+        <item>Sphynx</item>
+        <item>Ragdoll</item>
+        <item>Kucing munchkin</item>
+    </string-array>
+
+    <string-array name="ket">
+        <item>Kucing persia adalah ras kucing domestik berbulu panjang dengan karakter wajah bulat dan moncong pendek. Namanya mengacu pada Persia, nama lama Iran, di mana kucing serupa ditemukan. Sejak akhir abad 19, kucing jenis ini dikembangkan di Britania Raya dan Amerika Serikat usai Perang Dunia II. Wikipedia</item>
+        <item>Kucing bengal adalah keturunan ketiga dari hasil persilangan antara kucing domestik lebih tepatnya kucing american short hair dengan kucing ALC Asian leopard cat/kucing hutan/blacan/kuwuk. Wikipedia</item>
+        <item>Kucing siam adalah salah satu ras kucing pertama yang diakui jelas sebagai kucing berjenis oriental. Sesuai dengan namanya, kucing siam berasal dari negara Siam, sehingga ras kucing ini sangat mudah ditemukan di negara Thailand. Wikipedia</item>
+        <item>Kucing bulu pendek britania adalah salah satu ras kucing tertua yang nenek moyang dipercayai memiliki hubungan dengan bangsa Romawi yang pernah dahulu menguasai Inggris. Kucing ini adalah kucing berbadan sedang dengan bulu yang pendek. Selain itu, kucing ini juga banyak menjadi ikon. Wikipedia</item>
+        <item>Kucing sphynx adalah salah satu ras kucing yang memiliki bulu sangat pendek dan sedikit sekali. Jika dilihat sekilas, kucing sphynx tampak tidak memiliki bulu sama sekali, tetapi jika diamati lebih ... Wikipedia</item>
+        <item>Ragdoll adalah salah satu ras kucing terbesar di dunia yang telah diakui oleh Guinness World Records. Ragdoll awalnya dikembangkan oleh Ann Baker dari Amerika Serikat. Wikipedia</item>
+        <item>Kucing munchkin adalah salah satu ras kucing berkaki pendek yang terbentuk karena mutasi genetik alami. Ras ini baru mulai dikembangbiakkan sekitar tahun 1980-an di Amerika Serikat, negara asalnya. Karena kakinya yang pendek, munchkin menjadi salah satu ras kucing terkecil di dunia. Wikipedia</item>
+    </string-array>
+</resources>
